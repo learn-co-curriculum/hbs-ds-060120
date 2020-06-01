@@ -12,8 +12,7 @@
 ### Week 1
 | Topic                                  | Python Notebook                | Recorded Lecture                |
 |:---|:---|:---|
-| Tools of the Trade | n/a | [part1](https://wework.zoom.us/rec/share/79xSL-z18HhJSdaT4VvCX6UiL4nfaaa8hykZqPcKyhs6lcwpQgcPhKzKDqk6pZJl) • [part2]() |
-
+| Tools of the Trade | [python fundamentals](https://github.com/learn-co-students/hbs-ds-060120/blob/master/day-1-python-1/python-fundamentals.ipynb) | [part1](https://wework.zoom.us/rec/share/79xSL-z18HhJSdaT4VvCX6UiL4nfaaa8hykZqPcKyhs6lcwpQgcPhKzKDqk6pZJl) • [part2]() |
 
 ### Week 2
 | Topic                                  | Python Notebook                | Recorded Lecture                |
