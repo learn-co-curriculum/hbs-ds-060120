@@ -13,6 +13,7 @@
 ### Week 1
 | Topic                                  | Python Notebook                | Recorded Lecture                |
 |:---|:---|:---|
+| Orientation | N/A | [Welcome!](https://wework.zoom.us/rec/share/2-txCJb98GhJYNLUwlP7XKgPI97Meaa81SRI_fENnhtXDh3ZJ_Ets32jMnysgUBn) |
 | Tools of the Trade | [python fundamentals](https://github.com/learn-co-students/hbs-ds-060120/blob/master/day-1-python-1/python-fundamentals.ipynb) | [part 1](https://wework.zoom.us/rec/share/79xSL-z18HhJSdaT4VvCX6UiL4nfaaa8hykZqPcKyhs6lcwpQgcPhKzKDqk6pZJl) • [part 2](https://wework.zoom.us/rec/share/2-txCJb98GhJYNLUwlP7XKgPI97Meaa81SRI_fENnhtXDh3ZJ_Ets32jMnysgUBn) |
 
 
