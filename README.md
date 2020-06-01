@@ -12,7 +12,7 @@
 ### Week 1
 | Topic                                  | Python Notebook                | Recorded Lecture                |
 |:---|:---|:---|
-| Tools of the Trade | n/a | [part1]() • [part2]() |
+| Tools of the Trade | [python fundamentals](https://github.com/learn-co-students/hbs-ds-060120/blob/master/day-1-python-1/python-fundamentals.ipynb) | [part1]() • [part2]() |
 
 
 ### Week 2
