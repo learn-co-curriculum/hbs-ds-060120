@@ -16,6 +16,8 @@
 | Orientation | N/A | [Welcome!](https://wework.zoom.us/rec/share/2-txCJb98GhJYNLUwlP7XKgPI97Meaa81SRI_fENnhtXDh3ZJ_Ets32jMnysgUBn) |
 | Tools of the Trade | [Python Fundamentals](https://github.com/learn-co-students/hbs-ds-060120/blob/master/day-1-python-1/python-fundamentals.ipynb) | [part 1](https://wework.zoom.us/rec/share/79xSL-z18HhJSdaT4VvCX6UiL4nfaaa8hykZqPcKyhs6lcwpQgcPhKzKDqk6pZJl) • [part 2](https://wework.zoom.us/rec/share/2-txCJb98GhJYNLUwlP7XKgPI97Meaa81SRI_fENnhtXDh3ZJ_Ets32jMnysgUBn) |
 | Intro to Python| [Python](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-2-python-2) | [part 1](https://wework.zoom.com/rec/share/-M8oD6rC2WxJe4mKxkSPA_57Htriaaa8gCAc-_oEz0cIblccqOHVyV19qQNLqNil) • [part 2](https://wework.zoom.com/rec/share/5JZQH4v19zhIQ4X_6HjGePMtBprjaaa8gCgcr_IIxE9QvZWYOPOwHcQ7PNjCtcx1)
+| More Python | [Python 2](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-3-python-3) | |
+| Git Coach Lab | [Git Slides](https://github.com/learn-co-students/hbs-ds-060120/blob/master/module-1/day-3-python-3/Git%20Basics%20Coach%20Lab.pdf) | [lecture + questions recording](https://wework.zoom.com/rec/share/6NN4K-jg2jNLQJ2V61DzZ7UFL9nLeaa81HdPqKdenhzmqDjY8T-BowGP10-lc7EJ) |
 
 
 ### Week 2
