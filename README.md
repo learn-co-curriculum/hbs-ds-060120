@@ -20,6 +20,7 @@
 | Git Coach Lab | [Git Slides](https://github.com/learn-co-students/hbs-ds-060120/blob/master/module-1/day-3-python-3/Git%20Basics%20Coach%20Lab.pdf) | [lecture + questions recording](https://wework.zoom.com/rec/share/6NN4K-jg2jNLQJ2V61DzZ7UFL9nLeaa81HdPqKdenhzmqDjY8T-BowGP10-lc7EJ) |
 | Python Practice Coach Lab | [Practice Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-3-python-3/PythonPractice_CoachLab) | [lecture + questions recording](https://wework.zoom.com/rec/share/w_0qJb3J7mZIbqPpsRrjZukqTqHneaa8g3dN8qdZxUe75rI_ieQf5lVsE9RS1r2f?startTime=1591214609000) |
 | Working with Modules | [Libraries - NumPy](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-4-libraries-numpy) | [built-in modules](https://wework.zoom.com/rec/share/6pNrBr6u-2ZIG5XV4XqGYog_T7u1X6a8hCQZ_PMNnhum_3pi3Pf9B4XEwpuFezag) • [numpy](https://wework.zoom.com/rec/share/35QoCujWyElLfbPUyRntR68GJNXDX6a80HIc_fpfz05PwHzYYBGznsmxL_5r-mvb) |
+| Intro to Pandas | [Pandas 1](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-5-pandas-1) | [part 1](https://wework.zoom.com/rec/share/_vBuL_L_9D1OcNbj8k70eLJ-L6qmX6a8h3RK86EImXdEhtnjG6ExwFsJK-Dve-c) • [part 2](https://wework.zoom.com/rec/share/3uJYNr3u_VhJQp3J6lrfdII4IYLqX6a8g3dP-vBZzE7lQKy9gpVpEiunJbrkRRJz)
 
 ### Week 2
 | Topic                                  | Python Notebook                | Recorded Lecture                |
