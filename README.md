@@ -21,9 +21,10 @@
 | Coach Lab: Python Practice | [Practice Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-3-python-3/PythonPractice_CoachLab) | [lecture + questions recording](https://wework.zoom.com/rec/share/w_0qJb3J7mZIbqPpsRrjZukqTqHneaa8g3dN8qdZxUe75rI_ieQf5lVsE9RS1r2f?startTime=1591214609000) |
 | Working with Modules | [Libraries - NumPy](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-4-libraries-numpy) | [built-in modules](https://wework.zoom.com/rec/share/6pNrBr6u-2ZIG5XV4XqGYog_T7u1X6a8hCQZ_PMNnhum_3pi3Pf9B4XEwpuFezag) • [numpy](https://wework.zoom.com/rec/share/35QoCujWyElLfbPUyRntR68GJNXDX6a80HIc_fpfz05PwHzYYBGznsmxL_5r-mvb) |
 | Intro to Pandas | [Pandas 1](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-5-pandas-1) | [part 1](https://wework.zoom.com/rec/share/_vBuL_L_9D1OcNbj8k70eLJ-L6qmX6a8h3RK86EImXdEhtnjG6ExwFsJK-Dve-c) • [part 2](https://wework.zoom.com/rec/share/3uJYNr3u_VhJQp3J6lrfdII4IYLqX6a8g3dP-vBZzE7lQKy9gpVpEiunJbrkRRJz) |
-| More Pandas | [Pandas 2](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-6-pandas-2) | [part 1](https://wework.zoom.com/rec/share/wv1FA6vMxmxIZ7fBzxHZALYlQ77veaa81nId-qZcmB6qwh8lZ08A1UNdIdBFj8ng) • [part 2](https://wework.zoom.com/rec/share/65ZnK-jZ8VJOTs-W7Vznf597RJ29T6a80CcW_PINmUZGF0su2D6RCDp6Qz8t_rdc) |
-| Coach Lab: Pandas Practice 101 | [Practice Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-6-pandas-2/PandasPractice-CoachLab) | [lecture + questions recording](https://wework.zoom.us/rec/share/z9duf56srm9LXYGOyHH7fKhxHaPseaa8gyYXq_oKn09-X8pQJW8HCye1JfGUQtIW) |
+
 
 ### Week 2
 | Topic                                  | Python Notebook                | Recorded Lecture                |
 |:---|:---|:---|
+| More Pandas | [Pandas 2](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-6-pandas-2) | [part 1](https://wework.zoom.com/rec/share/wv1FA6vMxmxIZ7fBzxHZALYlQ77veaa81nId-qZcmB6qwh8lZ08A1UNdIdBFj8ng) • [part 2](https://wework.zoom.com/rec/share/65ZnK-jZ8VJOTs-W7Vznf597RJ29T6a80CcW_PINmUZGF0su2D6RCDp6Qz8t_rdc) |
+| Coach Lab: Pandas Practice 101 | [Practice Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-6-pandas-2/PandasPractice-CoachLab) | [lecture + questions recording](https://wework.zoom.us/rec/share/z9duf56srm9LXYGOyHH7fKhxHaPseaa8gyYXq_oKn09-X8pQJW8HCye1JfGUQtIW) |
