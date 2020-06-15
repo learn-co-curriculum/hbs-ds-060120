@@ -34,3 +34,9 @@
 | SQL | [SQL Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-9-sql-1) | [part 1](https://wework.zoom.us/rec/share/wuFyFu7g2EhOe8_1yE6HBv8cQo3lX6a8hHBM-ftYmKYHrxgoYV5jckx7Mgd6feQ) |
 | Coach Lab: Git Branches | [Branching+Merging+Pull Requests](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day-9-sql-1/git-branching-and-merging-coach-lab) | [lab + questions](https://wework.zoom.com/rec/share/-MFPCI2vzFxJQY3G9kb_er8fQ77raaa8hyQcr_MLmsEBXuW1DJdwh_zhf75mW-A) |
 | Advanced SQL | [SQL Lab Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-1/day~10-sql-2) | [part 1](https://wework.zoom.us/rec/share/xJJRA7vR1F9JGZ3A1B3SWo8oR43leaa8hHNM-KYPy0qoA1AVTd0l7xgntVnjR-zI) • [part 2](https://wework.zoom.us/rec/share/zslNMfKv801IWJ3h-EyCZrIeENr6T6a8gylPq6dYmB2xhJVD-Tkm11rn2E3dSlB3) |
+
+### Week 3
+| Topic                                  | Python Notebook                | Recorded Lecture                |
+|:---|:---|:---|
+| Statistical Distributions | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-2/day-1-distributions) | [Video](https://wework.zoom.com/rec/share/xM8uEr_s51JJXIHV-QLQYLA5LI3deaa82yMa-PZbyUjcX5VUy7DLGJ5t-QlZOXdu) |
+| Central Limit Theorem | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-2/day-1-CLT) | [Video](https://wework.zoom.com/rec/share/6sBoAbzLqGlJGrf2tEHdd4odD66mX6a80SNM8qIMmktXdJyNMs1dmoBCc1lhJq7f) | 
