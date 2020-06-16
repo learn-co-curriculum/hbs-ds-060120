@@ -40,5 +40,5 @@
 |:---|:---|:---|
 | Statistical Distributions | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-2/day-1-distributions) | [Video](https://wework.zoom.com/rec/share/xM8uEr_s51JJXIHV-QLQYLA5LI3deaa82yMa-PZbyUjcX5VUy7DLGJ5t-QlZOXdu) |
 | Central Limit Theorem | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/master/module-2/day-1-CLT) | [Video](https://wework.zoom.com/rec/share/6sBoAbzLqGlJGrf2tEHdd4odD66mX6a80SNM8qIMmktXdJyNMs1dmoBCc1lhJq7f) | 
-| Hypothesis Testing | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-2-hypothesis-testing) | [video](https://wework.zoom.com/rec/share/4uxObKz8-GZLAbfA63ycZIEmP5bhT6a82yRIrPNczBnjOfqEzUipSdXGXNiLL0MU) |
-| T-Testing | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-2-t-testing) | [video](https://wework.zoom.com/rec/share/3dNONpry3GVLYKeTxmHQRvA7INT_eaa8hiZN8_dfmkvH9R_33LzP9O1P6m395bVg) |
+| Hypothesis Testing | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-2-hypothesis-testing) | [Video](https://wework.zoom.com/rec/share/4uxObKz8-GZLAbfA63ycZIEmP5bhT6a82yRIrPNczBnjOfqEzUipSdXGXNiLL0MU) |
+| T-Testing | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-2-t-testing) | [Video](https://wework.zoom.com/rec/share/3dNONpry3GVLYKeTxmHQRvA7INT_eaa8hiZN8_dfmkvH9R_33LzP9O1P6m395bVg) |
