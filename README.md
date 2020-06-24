@@ -47,7 +47,8 @@
 | Linear Regression - Theory| [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-7-regression) | [Video](https://wework.zoom.com/rec/share/55Z-N_LA8WZOQrPOt0Xifap4Htz8aaa8hyEd-fYFnh0yZkDjC_oUlIVXcb47mqoi) |
 | Linear Regression - Implementation| [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-7-regression-evaluation) | [Video](https://wework.zoom.com/rec/share/55ZsBZT5zUJIHJHstWbhXJEtLIL7T6a8gyger_MEz07HtimlEPEHVNKK3cAxdZIV) |
 | Coach Lab - Regression Assumptions | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-2/day-7-regression-evaluation/Assumption%20Checking.ipynb) | [Video](https://wework.zoom.com/rec/share/_c9UIq7d6zJLUJWT0m_5RbJwPb_9X6a8hnUX_PQIxEzSpkqxBW6dLh0SxB1_sdNk) |
-| Multiple Linear Regression | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-8-multiple-regression) | [Part 1](https://wework.zoom.us/rec/share/ufJ0cuGhx2dISc_B2Rzac416LLvEaaa80yJN-PoKnR6j22hKVH07DVGtr34524Nn) •  |
+| Multiple Linear Regression | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-8-multiple-regression) | [Video](https://wework.zoom.us/rec/share/ufJ0cuGhx2dISc_B2Rzac416LLvEaaa80yJN-PoKnR6j22hKVH07DVGtr34524Nn) |
+| Categorical Variables & Diagnostics | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-2/day-8-multiple-regression-collinearity/multiple-regression-collinearity.ipynb) | [Video](https://wework.zoom.us/rec/share/z5Jqc7H-1zlJb6Ptx2fHeqEnLo3Ueaa803UZq_Ffzh49qgLGNp4l7sjjw62O8bYG) |
 
 
 ## Project Presentation Recordings
