@@ -44,11 +44,16 @@
 | T-Testing | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-2-t-testing) | [Video](https://wework.zoom.com/rec/share/3dNONpry3GVLYKeTxmHQRvA7INT_eaa8hiZN8_dfmkvH9R_33LzP9O1P6m395bVg) |
 | A/B Testing | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-3-ab-testing) | [Video](https://wework.zoom.com/rec/share/4ZJHHpPN5FNITKOVtETmCqwdPNu8aaa8hygY_fAOz0kMdtOEXuMt5QdROMg5TCTX) |
 | Module 1 Assessment Review | Assessment and Solution are in the slack channel | [Video](https://wework.zoom.com/rec/share/vvFzLpbv0T9JYrPV6WOHc_8jQKLKeaa8hnAe-qVYnugrOt0GZ5SLZCi16WoZXfo?startTime=1592418754000) |
+
+### Week 4
+| Topic                                  | Python Notebook                | Recorded Lecture                |
+|:---|:---|:---|
 | Linear Regression - Theory| [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-7-regression) | [Video](https://wework.zoom.com/rec/share/55Z-N_LA8WZOQrPOt0Xifap4Htz8aaa8hyEd-fYFnh0yZkDjC_oUlIVXcb47mqoi) |
 | Linear Regression - Implementation| [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-7-regression-evaluation) | [Video](https://wework.zoom.com/rec/share/55ZsBZT5zUJIHJHstWbhXJEtLIL7T6a8gyger_MEz07HtimlEPEHVNKK3cAxdZIV) |
 | Coach Lab - Regression Assumptions | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-2/day-7-regression-evaluation/Assumption%20Checking.ipynb) | [Video](https://wework.zoom.com/rec/share/_c9UIq7d6zJLUJWT0m_5RbJwPb_9X6a8hnUX_PQIxEzSpkqxBW6dLh0SxB1_sdNk) |
 | Multiple Linear Regression | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-8-multiple-regression) | [Video](https://wework.zoom.us/rec/share/ufJ0cuGhx2dISc_B2Rzac416LLvEaaa80yJN-PoKnR6j22hKVH07DVGtr34524Nn) |
 | Categorical Variables & Diagnostics | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-2/day-8-multiple-regression-collinearity/multiple-regression-collinearity.ipynb) | [Video](https://wework.zoom.us/rec/share/z5Jqc7H-1zlJb6Ptx2fHeqEnLo3Ueaa803UZq_Ffzh49qgLGNp4l7sjjw62O8bYG) |
+| Coach Lab - Linear Regression Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-8-multiple-regression-collinearity/CoachLab) | [Video](https://wework.zoom.com/rec/share/6Zd2LaDC30pIHNaTuXDDQ_IaO6r-aaa80HdP_KUOmU1GEVscy01braIMTrlrFuCY?startTime=1593029083000) |
 | Scaling, Normalization, & Transformations | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-9-standardization-normalization) | [Video](https://wework.zoom.us/rec/share/2Yt8D4PuyVhJbLed1xnAcIEhN6e7T6a80yhPqKAKnxuvv7bb1sGqqzYKGc08tMw1) |
 
 ## Project Presentation Recordings
