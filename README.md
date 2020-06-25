@@ -49,7 +49,7 @@
 | Coach Lab - Regression Assumptions | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-2/day-7-regression-evaluation/Assumption%20Checking.ipynb) | [Video](https://wework.zoom.com/rec/share/_c9UIq7d6zJLUJWT0m_5RbJwPb_9X6a8hnUX_PQIxEzSpkqxBW6dLh0SxB1_sdNk) |
 | Multiple Linear Regression | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-8-multiple-regression) | [Video](https://wework.zoom.us/rec/share/ufJ0cuGhx2dISc_B2Rzac416LLvEaaa80yJN-PoKnR6j22hKVH07DVGtr34524Nn) |
 | Categorical Variables & Diagnostics | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-2/day-8-multiple-regression-collinearity/multiple-regression-collinearity.ipynb) | [Video](https://wework.zoom.us/rec/share/z5Jqc7H-1zlJb6Ptx2fHeqEnLo3Ueaa803UZq_Ffzh49qgLGNp4l7sjjw62O8bYG) |
-
+| Scaling, Normalization, & Transformations | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-9-standardization-normalization) | [Video](https://wework.zoom.us/rec/share/2Yt8D4PuyVhJbLed1xnAcIEhN6e7T6a80yhPqKAKnxuvv7bb1sGqqzYKGc08tMw1) |
 
 ## Project Presentation Recordings
 | 1st Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) | [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
