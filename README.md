@@ -55,6 +55,7 @@
 | Categorical Variables & Diagnostics | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-2/day-8-multiple-regression-collinearity/multiple-regression-collinearity.ipynb) | [Video](https://wework.zoom.us/rec/share/z5Jqc7H-1zlJb6Ptx2fHeqEnLo3Ueaa803UZq_Ffzh49qgLGNp4l7sjjw62O8bYG) |
 | Coach Lab - Linear Regression Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-8-multiple-regression-collinearity/CoachLab) | [Video](https://wework.zoom.com/rec/share/6Zd2LaDC30pIHNaTuXDDQ_IaO6r-aaa80HdP_KUOmU1GEVscy01braIMTrlrFuCY?startTime=1593029083000) |
 | Scaling, Normalization, & Transformations | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-9-standardization-normalization) | [Video](https://wework.zoom.us/rec/share/2Yt8D4PuyVhJbLed1xnAcIEhN6e7T6a80yhPqKAKnxuvv7bb1sGqqzYKGc08tMw1) |
+| Polynomial Transformations & Interaction Terms | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-9-transformations)| [Video](https://wework.zoom.us/rec/share/6eh0F6Pq3U5LTZ3Q7UaFdZwYG6a8T6a80CdKrPYPxUganjNqbrYh9jdzQVTOxOXu) |
 
 ## Project Presentation Recordings
 | 1st Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) | [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
