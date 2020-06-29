@@ -62,8 +62,8 @@
 ### Week 5
 | Topic                                  | Python Notebook                | Recorded Lecture                |
 |:---|:---|:---|
-| Linear Algebra (Vector Math) & Cost Functions | | |
-| Regularization: Ridge & Lasso | | |
+| Linear Algebra (Vector Math) & Cost Functions | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-1-regularization/linear-algebra.ipynb) | [Video](https://wework.zoom.com/rec/share/6uBXJPL9-2NJE4XVtVv7VYF4FYG6eaa81yYcqKAMmh4lUh-ru81J0hKSrVbYX6xK)|
+| Regularization: Ridge & Lasso | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-1-regularization/regularization.ipynb) | [Video](https://wework.zoom.com/rec/share/vZJ5MOzLrVlIb6vj2UWBQ7QaPbXoaaa8gHQY_vUEyxwzvmDCdbH7cONf8-jg9lvB) |
 
 ## Project Presentation Recordings
 | 1st Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) | [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
