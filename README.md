@@ -6,8 +6,7 @@
 • [Additional Resources](https://drive.google.com/open?id=1qYxioNRi3tJmA-PrsdJZm16RDEnyk_fsLLETlCRsScU)
 
 ## Calendar
-<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=ZmxhdGlyb25zY2hvb2wuY29tX3FrNWZrc21razJrMGhvZzl0Nm5rOTNmdHZvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F09300&mode=WEEK&showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_qk5fksmkk2k0hog9t6nk93ftvo%40group.calendar.google.com&ctz=America%2FChicago&src=ZmxhdGlyb25zY2hvb2wuY29tX3FrNWZrc21razJrMGhvZzl0Nm5rOTNmdHZvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F09300&mode=WEEK&showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Recorded Lecture
 #### Password: hbs-060120
