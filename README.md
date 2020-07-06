@@ -70,6 +70,11 @@
 | Classification Metrics and LogReg Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-3-classification-metrics) | [Video](https://wework.zoom.us/rec/share/5cByPZHQ6jpOcqfVq2jNAJAxGI_lX6a80yAYr_cJyEZDSzTVvW4GOWnWABjDPZro) |
 | Coach Lab: Logistic Regression Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-3-classification-metrics) | [Video](https://wework.zoom.us/rec/share/-ZRcP4nTrFhJE53C8WzWXY8LFK3Yaaa81SFL-fEMxBr2jcHxFbioerJJGwZTvH24)
 
+### Week 6
+| Topic                                  | Python Notebook                | Recorded Lecture                |
+|:---|:---|:---|
+| Class Imbalance | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-class-imbalance/class_imbalance.ipynb) | [Video](https://wework.zoom.us/rec/share/1MJEH5rzzGVLZJXx4hmBc4J7Dtz3aaa8hyFP__IJzxwv_Hcr7WarANmdboWQgAAH) | 
+
 ## Project Presentation Recordings
 | 1st Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) | [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
 |:---|:---|:---|
