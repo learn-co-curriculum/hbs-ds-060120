@@ -73,8 +73,12 @@
 ### Week 6
 | Topic                                  | Python Notebook                | Recorded Lecture                |
 |:---|:---|:---|
-| Class Imbalance | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-class-imbalance/class_imbalance.ipynb) | [Video](https://wework.zoom.us/rec/share/1MJEH5rzzGVLZJXx4hmBc4J7Dtz3aaa8hyFP__IJzxwv_Hcr7WarANmdboWQgAAH) | 
+| Class Imbalance | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-class-imbalance/class_imbalance.ipynb) | [Video](https://wework.zoom.us/rec/share/1MJEH5rzzGVLZJXx4hmBc4J7Dtz3aaa8hyFP__IJzxwv_Hcr7WarANmdboWQgAAH) |
+
 
 ## Project Presentation Recordings
-| 1st Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) | [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
-|:---|:---|:---|
+| Project | Recording |
+|:---|:---|
+| 1st Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) • [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
+| Case Study | [Whole Class](https://wework.zoom.com/rec/share/7MIqc5jxzSBJHNbJzn3bBpAQLIvpX6a8gCccrPYPxUcgTPF7q4BIb9nEiQKK0rsk) |
+
