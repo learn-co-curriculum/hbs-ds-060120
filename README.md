@@ -77,6 +77,8 @@
 | K-Nearest Neighbors | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-knn/knn-classification-enkeboll.ipynb) | [Video](https://wework.zoom.com/rec/share/4ZVwN43Tx0dOUpHTxVD4e-19Bd_EX6a8gHcc-6IKxUdz1rU_VuT--LqCvSnGsBno) | 
 | Coach Lab - Classification Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-knn/CoachLab-ClassificationPractice-Lindsey.ipynb) | [Video](https://wework.zoom.us/rec/share/5pA2cLPu0TlLS7Ps01_zZPV9R6Lbaaa8g3dK-6EPmRoDwiatArbhNjro22qxO7x0) |
 | Decision Trees | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-6-decision-trees/decision-trees.ipynb) | [Video](https://wework.zoom.us/rec/share/uc1xAoG393tOEpHX2GqDAJANA9y8T6a80HQY_KENyBzOVNdKUKsm9WAsKnRapchY) |
+| Pipelines + ROC/AUC Curves | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-6-pipelines-roc/pipelines_roc_auc-enkeboll.ipynb) | [Video](https://wework.zoom.us/rec/share/yOBXdJrVzkJOEoWO5Rnjf-0QBsfkaaa8hikdqPdZmJcoDFwJhOqH1wyFMGMpCkw) |
+| Coach Lab - Decision Trees practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-6-pipelines-roc/coach_lab_decision_tree_practice/DecisionTreePractice-Ammar.ipynb) | [Video](https://wework.zoom.com/rec/share/vp1WcIyq0X5LAbPz5F7NAYEEEqrbaaa81CEX_PJcyxkP4nOz2Zeal-JpObEyhtoB) |
 
 
 ## Project Presentation Recordings
