@@ -74,7 +74,7 @@
 | Topic                                  | Python Notebook                | Recorded Lecture                |
 |:---|:---|:---|
 | Class Imbalance | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-class-imbalance/class_imbalance.ipynb) | [Video](https://wework.zoom.us/rec/share/1MJEH5rzzGVLZJXx4hmBc4J7Dtz3aaa8hyFP__IJzxwv_Hcr7WarANmdboWQgAAH) |
-| K-Nearest Neighbors | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-knn/knn-classification.ipynb) | [Video](https://wework.zoom.com/rec/share/4ZVwN43Tx0dOUpHTxVD4e-19Bd_EX6a8gHcc-6IKxUdz1rU_VuT--LqCvSnGsBno) | 
+| K-Nearest Neighbors | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-knn/knn-classification-enkeboll.ipynb) | [Video](https://wework.zoom.com/rec/share/4ZVwN43Tx0dOUpHTxVD4e-19Bd_EX6a8gHcc-6IKxUdz1rU_VuT--LqCvSnGsBno) | 
 | Coach Lab - Classification Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-knn/CoachLab-ClassificationPractice-Lindsey.ipynb) | [Video](https://wework.zoom.us/rec/share/5pA2cLPu0TlLS7Ps01_zZPV9R6Lbaaa8g3dK-6EPmRoDwiatArbhNjro22qxO7x0) |
 
 
