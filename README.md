@@ -8,7 +8,7 @@
 ## Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_qk5fksmkk2k0hog9t6nk93ftvo%40group.calendar.google.com&ctz=America%2FNewYork&src=ZmxhdGlyb25zY2hvb2wuY29tX3FrNWZrc21razJrMGhvZzl0Nm5rOTNmdHZvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F09300&mode=WEEK&showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Recorded Lecture
+## Recorded Lectures
 #### Password: hbs-060120
 ### Week 1
 | Topic                                  | Resources                | Recorded Lecture                |
@@ -86,7 +86,7 @@
 ## Project Presentation Recordings
 | Project | Recording |
 |:---|:---|
-| 1st Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) • [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
+| First Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) • [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
 | Case Study | [Whole Class](https://wework.zoom.com/rec/share/7MIqc5jxzSBJHNbJzn3bBpAQLIvpX6a8gCccrPYPxUcgTPF7q4BIb9nEiQKK0rsk) |
 
 ## Guest Lectures
