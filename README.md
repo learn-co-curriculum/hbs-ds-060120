@@ -66,7 +66,7 @@
 | Regularization: Ridge & Lasso | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-1-regularization/regularization.ipynb) | [Video](https://wework.zoom.com/rec/share/vZJ5MOzLrVlIb6vj2UWBQ7QaPbXoaaa8gHQY_vUEyxwzvmDCdbH7cONf8-jg9lvB) |
 | Regularization Coach Lab | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-1-regularization/CoachLab) | [Video](https://wework.zoom.us/rec/share/x9RaD6rq80JLWNLc1RHdSJMbG6u8aaa813Ua8vAJzkZIc9iRAz6gku1ZWlV9ue3J) |
 | Logistic Regression | [Notebooks](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-2-logistic-regression) | [Theory](https://wework.zoom.com/rec/share/y9NSKI6z_U9OeaP21kv-Sqg5A7_kX6a8hyAZ-PAMzO2mOdFiBxxlUulUmmzIJkY) • [Implementation](https://wework.zoom.com/rec/share/2-N_M6P7q3FLWY3vq0KccZ4GN7jnaaa81HAe8vJYyxs1bq9lrCt3ZZpTT6oMxPDM) |
-| 2nd Assessment Review | Shared in Slack | [Video](https://wework.zoom.com/rec/share/4cx0E46ppmJOQNLP0h7eRI4hN7rJT6a81XVLqadeyBzQgzwFCZovk2rr_GXVySmS) |
+|  Module 2 Assessment Review | Shared in Slack | [Video](https://wework.zoom.com/rec/share/4cx0E46ppmJOQNLP0h7eRI4hN7rJT6a81XVLqadeyBzQgzwFCZovk2rr_GXVySmS) |
 | Classification Metrics and LogReg Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-3-classification-metrics) | [Video](https://wework.zoom.us/rec/share/5cByPZHQ6jpOcqfVq2jNAJAxGI_lX6a80yAYr_cJyEZDSzTVvW4GOWnWABjDPZro) |
 | Coach Lab: Logistic Regression Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-3-classification-metrics) | [Video](https://wework.zoom.us/rec/share/-ZRcP4nTrFhJE53C8WzWXY8LFK3Yaaa81SFL-fEMxBr2jcHxFbioerJJGwZTvH24)
 
