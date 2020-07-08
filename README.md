@@ -89,3 +89,8 @@
 | 1st Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) • [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
 | Case Study | [Whole Class](https://wework.zoom.com/rec/share/7MIqc5jxzSBJHNbJzn3bBpAQLIvpX6a8gCccrPYPxUcgTPF7q4BIb9nEiQKK0rsk) |
 
+## Guest Lectures
+| Guest | Recording |
+|:---|:---|
+| Derek Chang and Charles Pensig, Stratus Data | [Video](https://wework.zoom.us/rec/play/7JAodr2o-m83S4CRtASDUfB7W466J6is0CUf8_BczkbhASFRZFavMLcbZeESrhfCnKUwX4QVZ1YIBMCI?startTime=1592424352000) | 
+| Mike Cohen, Substack | [Video](https://wework.zoom.com/rec/share/7NIoJajOp3lIGrPM9WXxY_4hHamiT6a8gXMfr_FZmkheBNjGVqWY0x_QPUXdlVQk) |
