@@ -78,7 +78,9 @@
 | Coach Lab - Classification Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-5-knn/CoachLab-ClassificationPractice-Lindsey.ipynb) | [Video](https://wework.zoom.us/rec/share/5pA2cLPu0TlLS7Ps01_zZPV9R6Lbaaa8g3dK-6EPmRoDwiatArbhNjro22qxO7x0) |
 | Decision Trees | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-6-decision-trees/decision-trees.ipynb) | [Video](https://wework.zoom.us/rec/share/uc1xAoG393tOEpHX2GqDAJANA9y8T6a80HQY_KENyBzOVNdKUKsm9WAsKnRapchY) |
 | Pipelines + ROC/AUC Curves | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-6-pipelines-roc/pipelines_roc_auc-enkeboll.ipynb) | [Video](https://wework.zoom.us/rec/share/yOBXdJrVzkJOEoWO5Rnjf-0QBsfkaaa8hikdqPdZmJcoDFwJhOqH1wyFMGMpCkw) |
-| Coach Lab - Decision Trees practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-6-pipelines-roc/coach_lab_decision_tree_practice/DecisionTreePractice-Ammar.ipynb) | [Video](https://wework.zoom.com/rec/share/vp1WcIyq0X5LAbPz5F7NAYEEEqrbaaa81CEX_PJcyxkP4nOz2Zeal-JpObEyhtoB) |
+| Coach Lab - Decision Trees Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-6-pipelines-roc/coach_lab_decision_tree_practice/DecisionTreePractice-Ammar.ipynb) | [Video](https://wework.zoom.com/rec/share/vp1WcIyq0X5LAbPz5F7NAYEEEqrbaaa81CEX_PJcyxkP4nOz2Zeal-JpObEyhtoB) |
+| Random Forest | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-7-random-forest) | [Video](https://wework.zoom.com/rec/share/ucgrAJja8WJOXbfp8FDdeLMGOK_aX6a81yEcrKAInRlZt835InOj332eOpIiROHk) |
+| Hyperparameter Tuning with GridSearch | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-7-hyperparameter-search) | [Video](https://wework.zoom.com/rec/share/_eheAZf76ERJRZGQtF_kU6M7HcPCT6a82nUW_PUMnUmKyzW3HETtfiFVIKBi0pCZ) |
 
 
 ## Project Presentation Recordings
