@@ -81,6 +81,8 @@
 | Coach Lab - Decision Trees Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-6-pipelines-roc/coach_lab_decision_tree_practice/DecisionTreePractice-Ammar.ipynb) | [Video](https://wework.zoom.com/rec/share/vp1WcIyq0X5LAbPz5F7NAYEEEqrbaaa81CEX_PJcyxkP4nOz2Zeal-JpObEyhtoB) |
 | Random Forest | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-7-random-forest) | [Video](https://wework.zoom.com/rec/share/ucgrAJja8WJOXbfp8FDdeLMGOK_aX6a81yEcrKAInRlZt835InOj332eOpIiROHk) |
 | Hyperparameter Tuning with GridSearch | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-7-hyperparameter-search) | [Video](https://wework.zoom.com/rec/share/_eheAZf76ERJRZGQtF_kU6M7HcPCT6a82nUW_PUMnUmKyzW3HETtfiFVIKBi0pCZ) |
+| Support Vector Machines | [Notebook]() | [Video](https://wework.zoom.us/rec/share/4cI2Co7K52xOfJ3DxU_tfIEFE5W1eaa8gCca__UJnRq7wfN44PIPQ2FUSzy_zTog) |
+| Principle Component Analysis | | |
 
 
 ## Project Presentation Recordings
@@ -88,6 +90,7 @@
 |:---|:---|
 | First Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) • [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
 | Case Study | [Whole Class](https://wework.zoom.com/rec/share/7MIqc5jxzSBJHNbJzn3bBpAQLIvpX6a8gCccrPYPxUcgTPF7q4BIb9nEiQKK0rsk) |
+| Client Project Kick-Off | [Video](https://wework.zoom.com/rec/share/-uhQELCu5FtIctbdr2iAZZAzGou0aaa80yUf8qIMmB3qfxfL9EdxvuWqiUJg2c3h) |
 
 ## Guest Lectures
 | Guest | Recording |
