@@ -81,7 +81,7 @@
 | Coach Lab - Decision Trees Practice | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-3/day-6-pipelines-roc/coach_lab_decision_tree_practice/DecisionTreePractice-Ammar.ipynb) | [Video](https://wework.zoom.com/rec/share/vp1WcIyq0X5LAbPz5F7NAYEEEqrbaaa81CEX_PJcyxkP4nOz2Zeal-JpObEyhtoB) |
 | Random Forest | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-7-random-forest) | [Video](https://wework.zoom.com/rec/share/ucgrAJja8WJOXbfp8FDdeLMGOK_aX6a81yEcrKAInRlZt835InOj332eOpIiROHk) |
 | Hyperparameter Tuning with GridSearch | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-7-hyperparameter-search) | [Video](https://wework.zoom.com/rec/share/_eheAZf76ERJRZGQtF_kU6M7HcPCT6a82nUW_PUMnUmKyzW3HETtfiFVIKBi0pCZ) |
-| Support Vector Machines | [Notebook]() | [Video](https://wework.zoom.us/rec/share/4cI2Co7K52xOfJ3DxU_tfIEFE5W1eaa8gCca__UJnRq7wfN44PIPQ2FUSzy_zTog) |
+| Support Vector Machines | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-8-SVM) | [Video](https://wework.zoom.us/rec/share/4cI2Co7K52xOfJ3DxU_tfIEFE5W1eaa8gCca__UJnRq7wfN44PIPQ2FUSzy_zTog) |
 | Principle Component Analysis | | |
 
 
