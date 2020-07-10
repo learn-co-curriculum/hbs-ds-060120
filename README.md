@@ -82,7 +82,7 @@
 | Random Forest | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-7-random-forest) | [Video](https://wework.zoom.com/rec/share/ucgrAJja8WJOXbfp8FDdeLMGOK_aX6a81yEcrKAInRlZt835InOj332eOpIiROHk) |
 | Hyperparameter Tuning with GridSearch | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-7-hyperparameter-search) | [Video](https://wework.zoom.com/rec/share/_eheAZf76ERJRZGQtF_kU6M7HcPCT6a82nUW_PUMnUmKyzW3HETtfiFVIKBi0pCZ) |
 | Support Vector Machines | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-8-SVM) | [Video](https://wework.zoom.us/rec/share/4cI2Co7K52xOfJ3DxU_tfIEFE5W1eaa8gCca__UJnRq7wfN44PIPQ2FUSzy_zTog) |
-| Principle Component Analysis | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-8-PCA)| |
+| Principle Component Analysis | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-8-PCA)| [Video](https://wework.zoom.us/rec/share/wfBxJOCq7n1LG42c9hjEXq0jP6vdT6a8gSdP8vZYz274lbNydTjdlhHcjLP4peA) |
 
 
 ## Project Presentation Recordings
