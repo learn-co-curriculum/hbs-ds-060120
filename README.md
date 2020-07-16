@@ -84,6 +84,12 @@
 | Support Vector Machines | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-8-SVM) | [Video](https://wework.zoom.us/rec/share/4cI2Co7K52xOfJ3DxU_tfIEFE5W1eaa8gCca__UJnRq7wfN44PIPQ2FUSzy_zTog) |
 | Principle Component Analysis | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-3/day-8-PCA)| [Video](https://wework.zoom.us/rec/share/wfBxJOCq7n1LG42c9hjEXq0jP6vdT6a8gSdP8vZYz274lbNydTjdlhHcjLP4peA) |
 
+### Week 7 - BONUS LECTURES
+| Topic                                  | Python Notebook                | Recorded Lecture                |
+|:---|:---|:---|
+| Intro To Natural Language Processing (NLP) | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-1-nlp) | [Video](https://wework.zoom.us/rec/share/25xaNJ7xqWVJTKfswUacUYUZLITLaaa80yRP__dbmRuY46rs-fEK0diygkN7lPB_)|
+| Time Series Modeling | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-2-time-series) | [Video](https://wework.zoom.us/rec/share/6sBMNbbosT9Le5XwtXz9cKI7EqjJeaa82nMW8_ReyEpUizLskRpmwjM1Ya8p-M3e)|
+
 
 ## Project Presentation Recordings
 | Project | Recording |
