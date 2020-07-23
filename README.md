@@ -89,7 +89,14 @@
 |:---|:---|:---|
 | Intro To Natural Language Processing (NLP) | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-1-nlp) | [Video](https://wework.zoom.us/rec/share/25xaNJ7xqWVJTKfswUacUYUZLITLaaa80yRP__dbmRuY46rs-fEK0diygkN7lPB_)|
 | Time Series Modeling | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-2-time-series) | [Video](https://wework.zoom.us/rec/share/6sBMNbbosT9Le5XwtXz9cKI7EqjJeaa82nMW8_ReyEpUizLskRpmwjM1Ya8p-M3e)|
-
+| Unsupervised Learning - Clustering | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-2-clustering) | [Video](https://wework.zoom.us/rec/share/vu1qIZHW8DlOaLfj1k_5cIoIIpq9aaa81yEe_KEPmUspN99-lY4UE1NycDzdvnlG) | 
+| Intro To Neural Nets | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-3-neural-networks) | [Video](https://wework.zoom.us/rec/share/ypRKAKn_rzpLbs_sy2X2YvQDALnuT6a823IYq_tfzhst1X8_k74_WGIXYJv2rFXg) | 
+| Web Apps: StreamLit + Heroku | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-4-streamlit/streamlit) | [Video](https://wework.zoom.us/rec/share/xZ1EI7To6F9JeKvy42LAVq08H939aaa8hHcb-qJbmknjgNB8zdpYPAr5uVvJv8KZ) | 
+| Web Apps: Flask | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-4-flask) | [Video](https://wework.zoom.us/rec/share/vfJJBLvi-0BIXqfK-BrQGYcZGL3nT6a8hHVKqacIyBw-jTtVDpIESrP18tRaHvBo) | 
+| Convolutional Neural Nets | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-5-cnns) | [Video](https://wework.zoom.us/rec/share/3_5vJpDpzWxIfInXxV3ZQ5InA6HJeaa8h3Ad_acLykrnHxnjY4BIayGclj_b0GF1) | 
+| RNNs & LSTMs (pass=commitment) | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-5-rnns) | [Part 1](https://wework.zoom.com/rec/share/vuhwP7_p1npOTKP26RHbUY0sAtzFT6a81SFL_PYMz0mpYbWHX4_IKvunJB7o9CHO) • [Part 2](https://wework.zoom.com/rec/share/wJB-P-_-5ElJUKfTyX_ufrUgPqvIX6a80HVL_PYIyE7QKNFRiwwrNIuRhXwOKM3-) |
+| Recommendation Systems | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-4-extras/day-6-recommendation-systems) | [Video](https://wework.zoom.us/rec/share/ysx0E5_a2GJJQKvRz2PASo4TI6b9eaa81XNK_vQEzEZPbmIaxJKcz8P0WZcTcMWN) | 
+ 
 
 ## Project Presentation Recordings
 | Project | Recording |
@@ -97,6 +104,7 @@
 | First Project | [Lindsey's Group](https://wework.zoom.com/rec/share/_uB6fr233DNOT6vj9Uznce0oWaD-X6a8h3Qa_Ppf5SeBMAgZRtZ8bvq8Sq80gg) • [Ammar's Group](https://wework.zoom.com/rec/share/xtNecYj_9CBLSK_0-l7mWIdxHd33T6a81yMfrPIFmhqmXGzYs4FCVTQLB2A0pUJF) |
 | Case Study | [Whole Class](https://wework.zoom.com/rec/share/7MIqc5jxzSBJHNbJzn3bBpAQLIvpX6a8gCccrPYPxUcgTPF7q4BIb9nEiQKK0rsk) |
 | Client Project Kick-Off | [Video](https://wework.zoom.com/rec/share/-uhQELCu5FtIctbdr2iAZZAzGou0aaa80yUf8qIMmB3qfxfL9EdxvuWqiUJg2c3h) |
+| Final Project Presentations | [Lindsey's Group](https://wework.zoom.us/rec/share/vtBzIp3-_W9OUpXBtFHOdbNmPaHjT6a82ilP_fAOxBnwNTM6E9bC9e1C9E4J96oL) • [Ammar's Group](https://wework.zoom.us/rec/share/u9Z3Lu_XsURJR9LI9Evca6hmBKTKeaa80SYa-KdcxIXE9Q8LiyTqtRdZxce0pEw)
 
 ## Guest Lectures
 | Guest | Recording |
