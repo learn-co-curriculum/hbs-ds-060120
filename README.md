@@ -43,7 +43,7 @@
 | Hypothesis Testing | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-2-hypothesis-testing) | [Video](https://wework.zoom.com/rec/share/4uxObKz8-GZLAbfA63ycZIEmP5bhT6a82yRIrPNczBnjOfqEzUipSdXGXNiLL0MU) |
 | T-Testing | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-2-t-testing) | [Video](https://wework.zoom.com/rec/share/3dNONpry3GVLYKeTxmHQRvA7INT_eaa8hiZN8_dfmkvH9R_33LzP9O1P6m395bVg) |
 | A/B Testing | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-3-ab-testing) | [Video](https://wework.zoom.com/rec/share/4ZJHHpPN5FNITKOVtETmCqwdPNu8aaa8hygY_fAOz0kMdtOEXuMt5QdROMg5TCTX) |
-| Module 1 Assessment Review | Shared in Slack | [Video](https://wework.zoom.com/rec/share/vvFzLpbv0T9JYrPV6WOHc_8jQKLKeaa8hnAe-qVYnugrOt0GZ5SLZCi16WoZXfo?startTime=1592418754000) |
+| Module 1 Assessment Review | Shared in Slack | [Video](https://youtu.be/-x30Reb9wPQ) |
 
 ### Week 4
 | Topic                                  | Python Notebook                | Recorded Lecture                |
