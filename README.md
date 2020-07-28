@@ -57,7 +57,7 @@
 | Scaling, Normalization, & Transformations | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-9-standardization-normalization) | [Video](https://wework.zoom.us/rec/share/2Yt8D4PuyVhJbLed1xnAcIEhN6e7T6a80yhPqKAKnxuvv7bb1sGqqzYKGc08tMw1) |
 | Polynomial Transformations & Interaction Terms | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-9-transformations)| [Video](https://wework.zoom.us/rec/share/6eh0F6Pq3U5LTZ3Q7UaFdZwYG6a8T6a80CdKrPYPxUganjNqbrYh9jdzQVTOxOXu) |
 | Coach Lab - Interpreting Scales | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/blob/main/module-2/day-9-transformations/feature_scaling_and_manipulation.ipynb) | [Video](https://wework.zoom.com/rec/share/_ud0IbLX10lOBaPB9EzWQ5UMLJvDaaa81ikWqPVczU8qDU2MqEBOcq3TGB3o1ULn)|
-| Model Validation & Cross Validation | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-10-validation) | [Video](https://wework.zoom.us/rec/share/_shEf4HI1zhJRK-T023zQYUQPobfaaa8hycf_fBYnRkAh9UntNsBucS1e_OkRxBM) |
+| Model Validation & Cross Validation | [Notebook](https://github.com/learn-co-students/hbs-ds-060120/tree/main/module-2/day-10-validation) | [Video](https://youtu.be/t16zttrudv4) |
 
 ### Week 5
 | Topic                                  | Python Notebook                | Recorded Lecture                |
